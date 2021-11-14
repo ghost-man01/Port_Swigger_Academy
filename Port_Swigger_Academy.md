@@ -1,5 +1,0 @@
-# Port Swigger Acadmey
-
-[SQL ](Port%20Swigger%20Acadmey%208f0134a731604b679bdd7a77a555fc3a/SQL%204e4e2d0612d645338f9a47d45af545f2.md)
-
-[OAUTH 2.0](Port%20Swigger%20Acadmey%208f0134a731604b679bdd7a77a555fc3a/OAUTH%202%200%20bbfc773348074b72931877d738d0bdf6.md)
